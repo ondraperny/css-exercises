@@ -1,0 +1,18 @@
+.pinkers {
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+    background-color: pink;
+}
+
+.bigg {
+    font-size: 24px;
+}
+
+#bluer {
+    font-size: 36px;
+    color: blue
+}
+
+#greener {
+    font-weight: bold;
+    background-color: lightgreen;
+}
