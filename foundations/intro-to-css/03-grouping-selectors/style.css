@@ -1,0 +1,15 @@
+.first_but,
+.second_but {
+    border-color: darkslategrey;
+    font-size: 40px;
+}
+
+.first_but {
+    background-color: black;
+    color: white;
+}
+
+.second_but {
+    background-color: yellow;
+    color: black;
+}
